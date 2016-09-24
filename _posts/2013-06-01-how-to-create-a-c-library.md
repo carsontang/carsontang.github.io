@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to create a C library"
+excerpt: "Learn how to a C programming language library, and impress your Ruby, Python, and other high level programming language friends."
 category: unix
 tags: [unix, c]
 ---

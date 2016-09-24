@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "super vs super() in Ruby"
+excerpt: "What is the difference between super and super() in Ruby? It's subtle but worth knowing if you're a full-time Ruby programmer."
 category: Ruby
 tags: [Ruby]
 ---

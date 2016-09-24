@@ -1,18 +1,17 @@
 ---
 layout: post
 title: "Dependency Injection Explanation"
+excerpt: "What is Dependency Injection, and how can you use it to simplify your codebase?"
 category: 
 tags: [design, testing]
 ---
 
 ### Definition
-<br />
 The best definition of dependency injection that I found online is by James Shore:
 
     "Dependency injection means giving an object its instance variables. Really. That's it."
 
 ### Example
-<br />
 {% highlight ruby %}
 class Computer
   def initialize

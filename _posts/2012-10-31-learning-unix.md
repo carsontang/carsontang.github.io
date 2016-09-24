@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Random Thoughts about Learning the Unix Philosophy"
+excerpt: "How does the O_APPEND flag fit into the Unix philosophy?"
 category: Unix
 tags: [Unix]
 ---
 
-###Why O_APPEND exists
+### Why O_APPEND exists
 Why use `O_APPEND` when you can just use `lseek(fd, 0, SEEK_END)` to move
 the file offset to the end of the file and call `write` from there?
 

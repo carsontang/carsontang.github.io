@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jekyll Commands"
+excerpt: "Useful Jekyll commands"
 category: blog
 tags: [jekyll]
 ---

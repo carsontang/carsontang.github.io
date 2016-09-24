@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GCC, Binutils Cheatsheet"
+excerpt: "Get your hands dirty with some low-level GCC hacking."
 category: unix
 tags: [unix, c]
 ---

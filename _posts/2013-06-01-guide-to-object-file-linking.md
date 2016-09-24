@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Guide to Object File Linking"
+excerpt: "Nowadays programming languages and environments abstract away object file linking, which is a boon for programmer productivity, but a travesty for deep understanding of the technology programmers use daily. This simple guide describes what a linker is and shows how to use it."
 category: unix
 tags: [unix, c]
 ---

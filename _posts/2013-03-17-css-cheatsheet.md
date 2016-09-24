@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CSS cheatsheet"
+excerpt: "I can never remember what every single CSS option is. Here's a cheatsheet to save myself for scouring the Internet over and over again every time I need to modify CSS."
 category: "CSS"
 tags: ["CSS"]
 ---

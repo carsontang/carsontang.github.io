@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Python Ecosystem Basics"
+excerpt: "Learn about site-packages, Python eggs, and virtualenvwrapper."
 category: "Python"
 tags: ["Python"]
 ---

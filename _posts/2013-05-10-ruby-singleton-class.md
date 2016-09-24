@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ruby Singleton Class"
+excerpt: "Learn about the Ruby singleton class and its real world application."
 category: ruby
 tags: [ruby]
 ---

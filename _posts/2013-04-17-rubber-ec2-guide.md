@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Deploying your Rails app to Amazon EC2 with the Rubber gem"
+excerpt: "Rubber is a simple open source plugin that lets you easily deploy Ruby on Rails apps. This post is a quick guide to get up and running with Rubber."
 category:
 tags: [Rails, deployment, Ruby]
 ---
 
 ### Introduction to Rubber
-<br/>
 Rubber is a Capistrano plugin that makes it easy to deploy Ruby on Rails applications to
 Amazon's Elastic Compute Cloud.
 
@@ -15,7 +15,6 @@ use when running your Rails app in production. You can view the list of supporte
 [here](https://github.com/rubber/rubber/tree/master/templates).
 
 ### Rubber Stack Templates
-<br />
 Rubber already provides some templates for common stacks like complete_passenger_nginx_postgresql,
 complete_passenger_mysql (which includes Apache as the HTTP server), and complete_unicorn_nginx_postgresql.
 
@@ -35,7 +34,6 @@ will suffice:
 * postgresql
 
 ### Installing Rubber in your Rails app
-<br />
 To install Rubber in your Rails app, go to the Gemfile and add
 {% highlight ruby %}
 gem 'rubber'

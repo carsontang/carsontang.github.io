@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Excon gem SSL issue"
+excerpt: "How to solve a certificate issue with the Excon Ruby gem."
 category: Ruby
 tags: [Ruby, Rails]
 ---

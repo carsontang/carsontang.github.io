@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PostgreSQL Cheatsheet"
+excerpt: "A list of commands for one of the most popular open source databases."
 category: PostgreSQL
 tags: [PostgreSQL]
 ---
@@ -86,8 +87,9 @@ pg-#        WHERE name = 'Palo Alto'
 pg-#    )
 pg-# );
 {% endhighlight %}
+
 ### Tuple Variables/Alias
-loans(loan_id, amount)
+    loans(loan_id, amount)
 
 Find loans that are greater in amount than some loan in loans.
 {% highlight psql %}

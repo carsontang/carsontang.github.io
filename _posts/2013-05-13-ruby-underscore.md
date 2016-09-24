@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ruby Underscore"
+excerpt: "Ruby newcomers often don't know what the \"_\" symbol means when browsing code. Let's learn about it."
 category: ruby
 tags: [ruby]
 ---
