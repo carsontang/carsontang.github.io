@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Understanding Ruby Code Blocks and Procs (Part 1)"
+excerpt: "What are Ruby code blocks and procs, and how can they be effectively utilized? (Part 1)"
 category: ruby
 tags: [ruby]
 ---
-{% include JB/setup %}
 
 ### Goal
 The goal of this series of articles is to understand how the following code

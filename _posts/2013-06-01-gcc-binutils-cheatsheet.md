@@ -4,7 +4,6 @@ title: "GCC, Binutils Cheatsheet"
 category: unix
 tags: [unix, c]
 ---
-{% include JB/setup %}
 
 The instructions below work for both the gcc and the clang compiler driver
 systems.

@@ -4,7 +4,6 @@ title: "Deploying your Rails app to Amazon EC2 with the Rubber gem"
 category:
 tags: [Rails, deployment, Ruby]
 ---
-{% include JB/setup %}
 
 ### Introduction to Rubber
 <br/>

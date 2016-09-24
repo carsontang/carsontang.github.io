@@ -4,7 +4,6 @@ title: "Random Thoughts about Learning the Unix Philosophy"
 category: Unix
 tags: [Unix]
 ---
-{% include JB/setup %}
 
 ###Why O_APPEND exists
 Why use `O_APPEND` when you can just use `lseek(fd, 0, SEEK_END)` to move

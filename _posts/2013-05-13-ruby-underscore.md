@@ -4,7 +4,6 @@ title: "Ruby Underscore"
 category: ruby
 tags: [ruby]
 ---
-{% include JB/setup %}
 
 I was browsing through the source code for Unicorn when I noticed this piece of
 code

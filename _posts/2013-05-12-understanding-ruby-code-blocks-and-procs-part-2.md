@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Understanding Ruby Code Blocks and Procs (Part 2)"
+excerpt: "What are Ruby code blocks and procs, and how can they be effectively utilized? (Part 2)"
 category: ruby
 tags: [ruby]
 ---
-{% include JB/setup %}
 
 ### Code block and Proc recap
 A method invocation can include up to five parts: the receiver, the dot operator,

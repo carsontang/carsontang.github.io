@@ -4,7 +4,6 @@ title: "JavaScript Prototypes Short Explanation"
 category: JavaScript 
 tags: [JavaScript]
 ---
-{% include JB/setup %}
 
 I'm finding it difficult to understand fundamentally how prototypes work in JavaScript,
 so after reading [Yehuda Katz's 'Understanding "Prototypes" in JavaScript'](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/),

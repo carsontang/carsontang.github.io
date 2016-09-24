@@ -4,7 +4,6 @@ title: "CSS cheatsheet"
 category: "CSS"
 tags: ["CSS"]
 ---
-{% include JB/setup %}
 
 ### Include an internal style sheet
 {% highlight html %}

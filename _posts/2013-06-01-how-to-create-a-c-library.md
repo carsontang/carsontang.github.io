@@ -4,7 +4,6 @@ title: "How to create a C library"
 category: unix
 tags: [unix, c]
 ---
-{% include JB/setup %}
 
 ### What's an archive?
 An archive is a collection of relocatable object files. Archive filenames end with the .a suffix.

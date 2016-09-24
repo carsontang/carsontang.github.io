@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 ##Common Gateway Interface
 The Common Gateway Interface is a standard method for web server software to delegate the generation of web content to executable files. These files are known as CGI scripts usually written in

@@ -4,7 +4,6 @@ title: "Quick Guide to cURL"
 category: command line
 tags: [command line]
 ---
-{% include JB/setup %}
 
 ####GET request
     curl http://localhost:8000/tweets

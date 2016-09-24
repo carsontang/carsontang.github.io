@@ -4,7 +4,6 @@ title: "PostgreSQL Cheatsheet"
 category: PostgreSQL
 tags: [PostgreSQL]
 ---
-{% include JB/setup %}
 
 ### Create a database
     $ createdb sample_app_test

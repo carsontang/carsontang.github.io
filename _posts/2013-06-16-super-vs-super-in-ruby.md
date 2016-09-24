@@ -4,7 +4,6 @@ title: "super vs super() in Ruby"
 category: Ruby
 tags: [Ruby]
 ---
-{% include JB/setup %}
 
 Here is some Ruby code I wrote the other day (shortened for the purpose of this article)
 

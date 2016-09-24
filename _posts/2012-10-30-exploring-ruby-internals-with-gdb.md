@@ -4,7 +4,6 @@ title: "Exploring Ruby Internals with GDB"
 category: Ruby
 tags: [Ruby, GDB]
 ---
-{% include JB/setup %}
 
 ##Setup
 ###Install autoconf 2.68

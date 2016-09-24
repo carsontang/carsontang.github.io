@@ -4,7 +4,6 @@ title: "DevOps Cheatsheet"
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 ###List all installed packages on Ubuntu or Debina
     dpkg --get-selections

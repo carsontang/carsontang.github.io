@@ -4,7 +4,6 @@ title: "MongoDB Cheatsheet"
 category: database
 tags: [mongo, database]
 ---
-{% include JB/setup %}
 
 ####Show a list of all databases
     > show dbs

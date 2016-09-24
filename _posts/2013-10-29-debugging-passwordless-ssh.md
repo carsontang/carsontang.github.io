@@ -4,7 +4,6 @@ title: "Debugging passwordless SSH"
 category: SSH
 tags: [SSH]
 ---
-{% include JB/setup %}
 
 I encountered some issues setting up passwordless SSH, which frustrated me. However, it was a blessing in disguise
 because it forced me to learn more about how SSH works. By the end of my research, I had a deeper understanding

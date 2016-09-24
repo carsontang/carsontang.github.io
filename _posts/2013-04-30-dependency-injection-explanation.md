@@ -4,7 +4,6 @@ title: "Dependency Injection Explanation"
 category: 
 tags: [design, testing]
 ---
-{% include JB/setup %}
 
 ### Definition
 <br />

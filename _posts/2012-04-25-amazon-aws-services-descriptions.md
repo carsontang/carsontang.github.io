@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Amazon AWS Services Descriptions"
-description: ""
+excerpt: "A couple simple descriptions of services that AWS offers."
 category: AWS
 tags: [AWS]
 ---
 
-#### Elastic Block Store (EBS)
+### Elastic Block Store (EBS)
 EBS volumes are storage not associated with one instance. Thus, they can be attached to
 any instance you launch.
 
-#### Elastic IP Addresses
+### Elastic IP Addresses
 Elastic IP addresses are static IP addresses. What's great about them is they aren't
 associated with only one Amazon instance. They can be mapped to any Amazon instance you
 control. Why is this useful? Say one of your instances goes down. You can immediately remap

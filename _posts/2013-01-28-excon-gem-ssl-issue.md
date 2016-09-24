@@ -4,7 +4,6 @@ title: "Excon gem SSL issue"
 category: Ruby
 tags: [Ruby, Rails]
 ---
-{% include JB/setup %}
 
 I got this issue while trying to get CarrierWave to upload pictures to S3 from
 an EC2 instance:

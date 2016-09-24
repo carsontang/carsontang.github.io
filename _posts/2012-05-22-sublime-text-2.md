@@ -5,7 +5,6 @@ description: sublime
 category: text editor
 tags: [tutorial]
 ---
-{% include JB/setup %}
 
 ### Code folding
 **Command + Option + Left Square Bracket** - code fold

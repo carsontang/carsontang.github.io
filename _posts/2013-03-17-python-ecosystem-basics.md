@@ -4,7 +4,6 @@ title: "Python Ecosystem Basics"
 category: "Python"
 tags: ["Python"]
 ---
-{% include JB/setup %}
 
 ### Installing a Python module
     $ tar -xvzf foo-1.0.tar.gz

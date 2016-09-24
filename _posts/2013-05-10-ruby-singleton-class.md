@@ -4,7 +4,6 @@ title: "Ruby Singleton Class"
 category: ruby
 tags: [ruby]
 ---
-{% include JB/setup %}
 
 ### What's a singleton method?
 A singleton method defined on a given object can only be called by that
