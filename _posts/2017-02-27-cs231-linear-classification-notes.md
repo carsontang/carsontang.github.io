@@ -10,16 +10,16 @@ A simple linear classifier has the following equation:
 
 $$
 \begin{align}
-f(x_i, W, b) &=  W x_i + b \\
+f(x_{random}, W, b) &=  W x_{random} + b \\
 W &\in \mathbb{R}^{K \times D} \\
-x_i &\in \mathbb{R}^D \\
+x_{random} &\in \mathbb{R}^D \\
 b &\in \mathbb{R}^K \\
 \end{align}
 $$
 
-In image classification, a single image is represented by $$x_i$$ in computer memory. $$x_i$$ is an array of $$D$$ numbers, each of which represents a pixel. You can think of $$W$$ as $$K$$ classifiers.
+In image classification, a single image is represented by $$x_{random}$$ in computer memory. $$x_{random}$$ is an array of $$D$$ numbers, each of which represents a pixel. You can think of $$W$$ as $$K$$ classifiers.
 
-$$\overbrace{x_i}^{\text{an image = an array of pixel values}}$$
+$$\overbrace{x_{random}}^{\text{an image = an array of pixel values}}$$
 
 $$
 \begin{align}
@@ -48,11 +48,11 @@ W_{dog} \cdot x_{random} = \text{score of how similar the random image is to a d
 \end{align}
 $$
 
-However you interpret the score, when you multiply $$W$$ and $$x_i$$, essentially you're producing $$K$$ scores, one for each classifier in $$W$$. You're getting scores for dog, cat, truck, lion, and whatever other classes are in $$W$$. On a more fine-grained level, you're taking the dot product between each classifier of $$W$$ and $$x_i$$. If you recall from linear algebra, taking the dot product between two vectors, $$v_1$$ and $$v_2$$, can be thought of as **taking the projection of $$v_1$$ on $$v_2$$ or vice versa**. And you can think of computing projection as **computing the similarity between the two vectors**. In other words, given a random image $$x_{random}$$ and a template image for a dog, $$W_{dog}$$, how **similar** is $$x_{random}$$ to $$W_{dog}$$?
+However you interpret the score, when you multiply $$W$$ and $$x_{random}$$, essentially you're producing $$K$$ scores, one for each classifier in $$W$$. You're getting scores for dog, cat, truck, lion, and whatever other classes are in $$W$$. On a more fine-grained level, you're taking the dot product between each classifier of $$W$$ and $$x_{random}$$. If you recall from linear algebra, taking the dot product between two vectors, $$v_1$$ and $$v_2$$, can be thought of as **taking the projection of $$v_1$$ on $$v_2$$ or vice versa**. And you can think of computing projection as **computing the similarity between the two vectors**. In other words, given a random image $$x_{random}$$ and a template image for a dog, $$W_{dog}$$, how **similar** is $$x_{random}$$ to $$W_{dog}$$?
 
 $$
 \begin{align}
-W x_i + b &=
+W x_{random} + b &=
 \left.
 \begin{bmatrix}
 \begin{array}{c}
