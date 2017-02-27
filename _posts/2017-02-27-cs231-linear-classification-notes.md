@@ -2,7 +2,7 @@
 layout: post
 title: CS231n Linear Classification Notes
 excerpt: notes to clarify linear classification
-category: ml
+category: machine learning
 tags: [machine learning]
 mathjax: true
 ---
