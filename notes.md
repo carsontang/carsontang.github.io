@@ -31,30 +31,10 @@ permalink: /notes/
 	ringing.
 * Brian fired 9 out of the 11 employees after he realized that he hated working
 	with people who weren't of high integrity.
-
-## Software Development
-* Don't be afraid to read code, extract essentials, and never limit yourself! Be
-	nimble in your thinking.
-* Hire people who are willing to challenge your ideas.
-* Engineers don't always have good user interfaces, but they might have a solid
-	operating system.
-
-## Technical Knowledge
-* A pixel is a **pic**ture **el**ement. It is 1 byte, which allows for 256
-	possible values. The values of a pixel represent the **intensity**. In a
-	grayscale image, the insensity values represent how **black** a pixel is. For
-	example, 0 means the pixel is black, and 255 means the pixel is white. Read
-	[Digital Image Basics](http://www.whydomath.org/node/wavlets/imagebasics.html)
-	to learn more.
-* Colored digital images are just combinations of red, green, and blue. Whereas
-	a grayscale image is just one channel, a colored image is three channels. Each
-	channel is the image's red, green, and blue intensities.
-* In an image, **edges** are areas of **strong intensity contrasts**, a jump in intensity from one pixel
-  to the next. The [Canny edge detection algorithm](http://masters.donntu.org/2010/fknt/chudovskaja/library/article5.htm)
-	looks for these jumps.
-* [Why are GPUs better than CPUs for deep learning?]( https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning/answer/Tim-Dettmers-1)
-  Deep learning requires lots of parallel mathematical computations. A GPU can
-	perform multiple orders of magnitudes more calculations than a CPU.
+* Brian got the number 1-800-GOT-JUNK after making 62 calls, 3 of which were to the same state official who owned the number. He made his own luck by persisting.
+* According to Brian, "your life will have storms, but storms don't last forever."
+* 1-800-GOT-JUNK's new CEO lowered goals to increase the team's confidence and morale.
+* Amazon likes to set high standards. [Jeff Bezos told the Echo developers that the device had to respond to any query in 1 second, even though the state of the art at the time was 2.5 seconds.](http://www.businessinsider.com/the-inside-story-of-how-amazon-created-echo-2016-4)
 
 ## Career
 * Ask your peers for judgment since they are also actively working on the
@@ -83,6 +63,39 @@ permalink: /notes/
 	of what a company would lose out on when the new invention arises.
 * Regina Dugan recommends allocating two years on a project so that every week
 	is 1% of the time.
+* Learning begins not when you ask "how does this work?", but when you ask, "I wonder if..."
+* [Elon Musk's secrets to success](http://imgur.com/gallery/9LXLz)
+
+## Ideas
+* Java huge garbage collector analyzer (10G+)
+* [Alibaba infra projects](https://drive.google.com/file/d/0B0Mge0XRpms4VzlyYXJzcTVhcFU/view)
+
+## Software Development
+* Don't be afraid to read code, extract essentials, and never limit yourself! Be
+	nimble in your thinking.
+* Hire people who are willing to challenge your ideas.
+* Engineers don't always have good user interfaces, but they might have a solid
+	operating system.
+
+## Technical Knowledge
+* A pixel is a **pic**ture **el**ement. It is 1 byte, which allows for 256
+	possible values. The values of a pixel represent the **intensity**. In a
+	grayscale image, the insensity values represent how **black** a pixel is. For
+	example, 0 means the pixel is black, and 255 means the pixel is white. Read
+	[Digital Image Basics](http://www.whydomath.org/node/wavlets/imagebasics.html)
+	to learn more.
+* Colored digital images are just combinations of red, green, and blue. Whereas
+	a grayscale image is just one channel, a colored image is three channels. Each
+	channel is the image's red, green, and blue intensities.
+* In an image, **edges** are areas of **strong intensity contrasts**, a jump in intensity from one pixel
+  to the next. The [Canny edge detection algorithm](http://masters.donntu.org/2010/fknt/chudovskaja/library/article5.htm)
+	looks for these jumps.
+* [Why are GPUs better than CPUs for deep learning?]( https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning/answer/Tim-Dettmers-1)
+  Deep learning requires lots of parallel mathematical computations. A GPU can
+	perform multiple orders of magnitudes more calculations than a CPU.
+* [Description of the Thrift protocol and transport layers](https://gist.github.com/carsontang/8d7c7680e84a509545a6b259de8098ff)
+* **Why inheritance sucks** - In Java, implementing an interface should be preferred over inheritance. Inheritance often results in difficult maintenance of code. If a class is inheritable, then you must ensure all future subclasses should implement the interface specified by the class. That is hard to predict unless you know the class is providing base fundamental functionality. Inheritance might result in code reuse and **less time** writing code before it ships, but it also results in **more time** maintaining code after it ships.
+
 
 ## Miscellaneous
 ### Why Android isn't as smooth as iPhone
