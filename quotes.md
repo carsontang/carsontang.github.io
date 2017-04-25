@@ -273,3 +273,7 @@ The man who follows the crowd will usually get no further than the crowd. The ma
 [Source](http://astarte.csustan.edu/~tom/SFI-CSSS/info-theory/info-lec.pdf)
 
 ---
+
+The most common strategy with guys who are inexperienced with women is "to be liked by all; hated by none". This is a horrible strategy. You have to either make the decision to accept being controversial and confrontational or you need to accept that you will go through life with everyone being neutral towards you. You CANNOT be an attractive and life-changing presence to some women without being a joke or an embarrassment to others. You have to polarize.
+
+*Mark Manson*
