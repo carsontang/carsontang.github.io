@@ -65,10 +65,12 @@ permalink: /notes/
 	is 1% of the time.
 * Learning begins not when you ask "how does this work?", but when you ask, "I wonder if..."
 * [Elon Musk's secrets to success](http://imgur.com/gallery/9LXLz)
+* [Quora answer on how to become part of the 1 percent](https://www.quora.com/How-can-one-become-part-of-the-1/answers/8734078)
 
 ## Ideas
 * Java huge garbage collector analyzer (10G+)
 * [Alibaba infra projects](https://drive.google.com/file/d/0B0Mge0XRpms4VzlyYXJzcTVhcFU/view)
+* Steve Scott's tips on how to start a successful blog [1](http://www.stevescottsite.com/startablog.pdf) [2](http://www.stevescottsite.com/begin)
 
 ## Software Development
 * Don't be afraid to read code, extract essentials, and never limit yourself! Be
@@ -95,6 +97,7 @@ permalink: /notes/
 	perform multiple orders of magnitudes more calculations than a CPU.
 * [Description of the Thrift protocol and transport layers](https://gist.github.com/carsontang/8d7c7680e84a509545a6b259de8098ff)
 * **Why inheritance sucks** - In Java, implementing an interface should be preferred over inheritance. Inheritance often results in difficult maintenance of code. If a class is inheritable, then you must ensure all future subclasses should implement the interface specified by the class. That is hard to predict unless you know the class is providing base fundamental functionality. Inheritance might result in code reuse and **less time** writing code before it ships, but it also results in **more time** maintaining code after it ships.
+* [Why the gradient is the direction of steepest ascent](http://www.math.usm.edu/lambers/mat280/spr10/lecture7.pdf)
 
 
 ## Miscellaneous

@@ -277,3 +277,9 @@ The man who follows the crowd will usually get no further than the crowd. The ma
 The most common strategy with guys who are inexperienced with women is "to be liked by all; hated by none". This is a horrible strategy. You have to either make the decision to accept being controversial and confrontational or you need to accept that you will go through life with everyone being neutral towards you. You CANNOT be an attractive and life-changing presence to some women without being a joke or an embarrassment to others. You have to polarize.
 
 *Mark Manson*
+
+---
+
+[Google] uses a metric. Take our very best programmer. Suppose we had a choice. Either we could lose that programmer, or we could lose our N worst programmers. It’s either worst or average, I don’t remember which one, but N other programmers. How big is N when that balances? And he said at Google the answer is about 300.
+
+*[John Ousterhout, 2016-05-07](https://www.youtube.com/watch?v=ajFq31OV9Bk#t=20m50s)*
