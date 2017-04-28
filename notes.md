@@ -98,6 +98,8 @@ permalink: /notes/
 * [Description of the Thrift protocol and transport layers](https://gist.github.com/carsontang/8d7c7680e84a509545a6b259de8098ff)
 * **Why inheritance sucks** - In Java, implementing an interface should be preferred over inheritance. Inheritance often results in difficult maintenance of code. If a class is inheritable, then you must ensure all future subclasses should implement the interface specified by the class. That is hard to predict unless you know the class is providing base fundamental functionality. Inheritance might result in code reuse and **less time** writing code before it ships, but it also results in **more time** maintaining code after it ships.
 * [Why the gradient is the direction of steepest ascent](http://www.math.usm.edu/lambers/mat280/spr10/lecture7.pdf)
+* [SSTable](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/) stands for Sorted String Table. It's a a simple abstraction to efficiently store large numbers of key-value pairs while optimizing for high throughput, sequential read/write workloads.
+* [RocksDB is a fork of LevelDB that can handle server side workloads](http://rocksdb.blogspot.com/2013/11/the-history-of-rocksdb.html). RocksDB allows fast read/writes atop SSD, whereas [HBase/HDFS cannot take advantage of SSD](http://hadoopblog.blogspot.com/2012/05/hadoop-and-solid-state-drives.html) (since it was built for disk drives).
 
 
 ## Miscellaneous
