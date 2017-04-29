@@ -2,6 +2,7 @@
 layout: page
 title: Notes
 permalink: /notes/
+mathjax: true
 ---
 
 ## Business
@@ -100,6 +101,15 @@ permalink: /notes/
 * [Why the gradient is the direction of steepest ascent](http://www.math.usm.edu/lambers/mat280/spr10/lecture7.pdf)
 * [SSTable](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/) stands for Sorted String Table. It's a a simple abstraction to efficiently store large numbers of key-value pairs while optimizing for high throughput, sequential read/write workloads.
 * [RocksDB is a fork of LevelDB that can handle server side workloads](http://rocksdb.blogspot.com/2013/11/the-history-of-rocksdb.html). RocksDB allows fast read/writes atop SSD, whereas [HBase/HDFS cannot take advantage of SSD](http://hadoopblog.blogspot.com/2012/05/hadoop-and-solid-state-drives.html) (since it was built for disk drives).
+* [Neural networks with at least one hidden layer are universal
+	approximators.](http://cs231n.github.io/neural-networks-1/#representational-power) That is, given any continuous function $$f(x)$$ and some $$\epsilon > 0$$, $$\exists$$ Neural Network $$g(x)$$ with one hidden layer (with a reasonable choice of non-linearity, e.g. sigmoid) such that $$\forall x, |f(x) - g(x)| < \epsilon$$.
+* Prefer L2 regularization, dropout, and input noise over smaller neural networks to prevent overfitting. The takeaway is that you should not be using smaller networks because you are afraid of overfitting. Instead, you should use as big of a neural network as your computational budget allows, and use other regularization techniques to control overfitting.
+* Read this [CS231n note about representational power of neural networks](http://cs231n.github.io/neural-networks-1/#representational-power) for tips on best practices.
+* [Simplify your life with an SSH config
+	file](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
+* [Intuitive explanation of the entropy equation](https://www.youtube.com/watch?v=2s3aJfRr9gE)
+* [Intuitive explanation of cross entropy](http://colah.github.io/posts/2015-09-Visual-Information/)
+* [References for new deep learning students at the Montreal Institute for Learning Algorithms](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit)
 
 
 ## Miscellaneous
