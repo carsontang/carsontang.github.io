@@ -7,6 +7,8 @@ tags: [machine learning]
 mathjax: true
 ---
 
+# Advice for building good models
+* Zero-mean data is generally better than nonzero-mean data. If the inputs of a neuron were always positive, the gradient that'd flow out of the neuron would either be all positive or all negative. In 2D, this means gradient descent would take a zig-zaggy path, which is a constrained path. See [CS231n Lecture 5 by Andrej Karpathy](https://www.youtube.com/watch?v=gYpoJMlgyXA&t=18m38s) for more details.
 # Textbooks
 * [Deep Learning Book by Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/)
 * [Neural networks and deep learning by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
@@ -21,3 +23,5 @@ mathjax: true
 * [Reading roadmap of important deep learning papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Deep learning links from Ujjwal Karn, an NLP and deep learning engineer](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#deep)
 * [Introduction to Automatic Differentiation](http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/)
+* [A Neural Parametric Singing Synthesizer](https://arxiv.org/pdf/1704.03809.pdf) with [samples](http://www.dtic.upf.edu/~mblaauw/IS2017_NPSS/)
+* [Speech synthesis technology by Lyrebird](https://lyrebird.ai/)
