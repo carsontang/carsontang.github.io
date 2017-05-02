@@ -104,6 +104,7 @@ mathjax: true
 * [RocksDB is a fork of LevelDB that can handle server side workloads](http://rocksdb.blogspot.com/2013/11/the-history-of-rocksdb.html). RocksDB allows fast read/writes atop SSD, whereas [HBase/HDFS cannot take advantage of SSD](http://hadoopblog.blogspot.com/2012/05/hadoop-and-solid-state-drives.html) (since it was built for disk drives).
 * [Simplify your life with an SSH config file](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * The **Kullback-Leibler divergence** is essentialy the **distance between two probability distributions**. Let's say Carson and Mark's vocabulary consists of "Java", "Macbook", "RegionServer", and "Zeus". Carson says the words with probabilities 0.25, 0.25, 0.35, and 0.15. Mark says the words with probabilities 0.15, 0.55, 0.15, and 0.15. The KL divergence between the two probability distributions measures how different they are. In machine learning, the softmax classifier minimizes the KL divergence between the estimated probabilities of each feature and the "true" distribution, which is known because of supervised learning.
+* set up a relatively secure SSH server on your home PC with either `ngrok tcp 22` or ZeroTier. To use ZeroTier, both the client and the server need to be on the virtual ZeroTier network. If a ZT network can't be joined, check for PORT_ERROR and check /var/log/syslog for zt0/zt1 related issues.
 
 
 ## Miscellaneous
