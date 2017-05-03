@@ -283,3 +283,9 @@ The most common strategy with guys who are inexperienced with women is "to be li
 [Google] uses a metric. Take our very best programmer. Suppose we had a choice. Either we could lose that programmer, or we could lose our N worst programmers. It’s either worst or average, I don’t remember which one, but N other programmers. How big is N when that balances? And he said at Google the answer is about 300.
 
 *[John Ousterhout, 2016-05-07](https://www.youtube.com/watch?v=ajFq31OV9Bk#t=20m50s)*
+
+---
+
+Kevin Feige, the president of Marvel, gets his ideas by asking , "Wouldn't it be cool if..."
+
+---
