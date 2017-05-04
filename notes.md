@@ -127,3 +127,7 @@ prototype wasn’t a touch screen device. Android’s rendering trade-offs make
 sense for a keyboard and trackball device. When the iPhone came out, the Android
 team rushed to release a competitor product, but unfortunately it was too late
 to rewrite the UI framework.
+
+### Interesting datasets
+* [Instacart Online Grocery Shopping Dataset 2017, 3 million grocery orders from 200,000+ Instacart users.](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2)
+* [Mapillary Vistas Dataset—the world’s largest and most diverse publicly available, pixel-accurately and instance-specifically annotated street-level imagery dataset](http://blog.mapillary.com/product/2017/05/03/mapillary-vistas-dataset.html)
