@@ -12,6 +12,7 @@ mathjax: true
 # Textbooks
 * [Deep Learning Book by Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/)
 * [Neural networks and deep learning by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
+* "It is the **loss function** that will direct what the intermediate hidden variables should be, so as to do a good job at predicting the targets for the next layer." [Link](https://www.youtube.com/watch?v=MRH9ABxCUZ0#t=54m56s)
 
 # References
 * [Intuitive YouTube explanation of the entropy equation](https://www.youtube.com/watch?v=2s3aJfRr9gE)
@@ -25,3 +26,5 @@ mathjax: true
 * [Introduction to Automatic Differentiation](http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/)
 * [A Neural Parametric Singing Synthesizer](https://arxiv.org/pdf/1704.03809.pdf) with [samples](http://www.dtic.upf.edu/~mblaauw/IS2017_NPSS/)
 * [Speech synthesis technology by Lyrebird](https://lyrebird.ai/)
+* [zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks](zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks)
+* [Deepmind Differenetial Neural Computer](https://github.com/deepmind/dnc)
