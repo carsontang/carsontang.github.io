@@ -14,7 +14,7 @@ Run `python -c 'from caffe2.python import core' 2>/dev/null && echo "Success" ||
 
 **Caffe2 missing in Python module search path** - Did you run the command within `caffe2/build`? If not, `cd` into `caffe2/build` or `export PYTHONPATH=$PYTHONPATH:/path/to/caffe2/build` so that the Python module search path will include `caffe2.python`.
 
-**Anaconda using outdated libgcc** - Open up the python shell and type `from caffe2.python import core`.
+**Anaconda using outdated libgcc** - If you have Anaconda installed, open up the Python shell.
 
 ```
 >>> from caffe2.python import core
@@ -25,7 +25,7 @@ CRITICAL:root:Cannot load caffe2.python. Error: /home/$USER/anaconda2/bin/../lib
 by caffe2/python/caffe2_pybind11_state.so)
 ```
 
-This means Anaconda has an outdated `libstdc++.so`. To double check this, run `strings ~/anaconda2/lib/libstdc++.so | grep GLIBCXX_3.4`. This should be missing GLIBCXX_3.4.20. To fix this issue, run `conda install libgcc`. Running `strings ~/anaconda2/lib/libstdc++.so | grep GLIBCXX_3.4` should now show `GLIBCXX_3.4.20`.
+This means Anaconda has an outdated `libstdc++.so`. To double check this, run `strings ~/anaconda2/lib/libstdc++.so | grep GLIBCXX_3.4`. This should be missing GLIBCXX_3.4.20. To fix this issue, run `conda install libgcc`. Running `strings ~/anaconda2/lib/libstdc++.so | grep GLIBCXX_3.4` should now show `GLIBCXX_3.4.20`, which will mean that `caffe2.python` can be loaded.
 
 ## Hosting Jupyter Notebook on Server
 
