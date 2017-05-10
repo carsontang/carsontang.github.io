@@ -110,3 +110,7 @@ will be returned twice. There is one pair such that the second tuple's amount
 is greater than the other tuple's amount. There are two pairs such that the
 third tuple's amount is greater than the other tuple's amount. Using DISTINCT
 removes all the redundant tuples.
+
+### Resources
+
+* [Guide by Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
