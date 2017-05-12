@@ -139,3 +139,6 @@ executable and linkable format
 
 ### What is an ELF file?
 An ELF file is a file containing binary data.
+
+### Resources
+* [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
