@@ -289,3 +289,7 @@ The most common strategy with guys who are inexperienced with women is "to be li
 Kevin Feige, the president of Marvel, gets his ideas by asking , "Wouldn't it be cool if..."
 
 ---
+
+I used to think you should try to deconstruct everything. Experience everything. Just get yourself out there. But I don’t believe that any more. Having adventures is all very well, but an imagination can make up for all that. That’s the more intelligent way to be. And it keeps you out of harm’s way.
+
+*[Josh Brolin](http://people.com/celebrity/josh-brolin-on-diane-lane-divorce-and-rehab-i-was-on-a-destructive-path/)*
