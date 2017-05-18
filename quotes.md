@@ -293,3 +293,9 @@ Kevin Feige, the president of Marvel, gets his ideas by asking , "Wouldn't it be
 I used to think you should try to deconstruct everything. Experience everything. Just get yourself out there. But I don’t believe that any more. Having adventures is all very well, but an imagination can make up for all that. That’s the more intelligent way to be. And it keeps you out of harm’s way.
 
 *[Josh Brolin](http://people.com/celebrity/josh-brolin-on-diane-lane-divorce-and-rehab-i-was-on-a-destructive-path/)*
+
+---
+
+I wish that I had better access to the proposals that I had personally written because I had a whole bunch of f****** terrible, terrible ideas and [Slack] was the one that had the broadest consensus among the team as being something that would be valuable.
+
+*[Stewart Butterfield, founder of Flickr and Slack](https://www.youtube.com/watch?v=zsBjAuexPq4&t=7m14s)*

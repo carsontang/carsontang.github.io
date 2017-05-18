@@ -73,6 +73,7 @@ mathjax: true
 * [Alibaba infra projects](https://drive.google.com/file/d/0B0Mge0XRpms4VzlyYXJzcTVhcFU/view)
 * Steve Scott's tips on how to start a successful blog [1](http://www.stevescottsite.com/startablog.pdf) [2](http://www.stevescottsite.com/begin)
 * "How to Build a Great Bot" was the number one session at F8 2017. Companies want to make great bots!
+* Object recognition software that translates real-world objects into Simplified Chinese
 
 ## Software Development
 * Don't be afraid to read code, extract essentials, and never limit yourself! Be
@@ -98,6 +99,8 @@ mathjax: true
   Deep learning requires lots of parallel mathematical computations. A GPU can
 	perform multiple orders of magnitudes more calculations than a CPU.
 * [Description of the Thrift protocol and transport layers](https://gist.github.com/carsontang/8d7c7680e84a509545a6b259de8098ff)
+* On Unix, each process has its own page table with its own address space. The process's user memory starts at virtual address zero.
+* An ELF file consists of a text section. text == code == machine code of a compiled program. data == initialized global C variables. bss == better save space! == block storage space == uninitialized global C variables.
 * **Why inheritance sucks** - In Java, implementing an interface should be preferred over inheritance. Inheritance often results in difficult maintenance of code. If a class is inheritable, then you must ensure all future subclasses should implement the interface specified by the class. That is hard to predict unless you know the class is providing base fundamental functionality. Inheritance might result in code reuse and **less time** writing code before it ships, but it also results in **more time** maintaining code after it ships.
 * [Why the gradient is the direction of steepest ascent](http://www.math.usm.edu/lambers/mat280/spr10/lecture7.pdf)
 * [SSTable](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/) stands for Sorted String Table. It's a a simple abstraction to efficiently store large numbers of key-value pairs while optimizing for high throughput, sequential read/write workloads.
