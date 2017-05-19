@@ -109,6 +109,7 @@ mathjax: true
 * The **Kullback-Leibler divergence** is essentialy the **distance between two probability distributions**. Let's say Carson and Mark's vocabulary consists of "Java", "Macbook", "RegionServer", and "Zeus". Carson says the words with probabilities 0.25, 0.25, 0.35, and 0.15. Mark says the words with probabilities 0.15, 0.55, 0.15, and 0.15. The KL divergence between the two probability distributions measures how different they are. In machine learning, the softmax classifier minimizes the KL divergence between the estimated probabilities of each feature and the "true" distribution, which is known because of supervised learning.
 * set up a relatively secure SSH server on your home PC with either `ngrok tcp 22` or ZeroTier. To use ZeroTier, both the client and the server need to be on the virtual ZeroTier network. If a ZT network can't be joined, check for PORT_ERROR and check /var/log/syslog for zt0/zt1 related issues.
 * Python searches for modules in 1) the directory containing the input script (or current directory) 2) PYTHONPATH and 3) installation-dependent default. [Source](https://docs.python.org/2/tutorial/modules.html#the-module-search-path)
+* [Semantic versioning](http://semver.org/) means version numbers should be in the following form: **MAJOR.MINOR.PATCH**. Increment the 1) MAJOR version when you make incompatible API changes, 2) MINOR version when you add functionality in a backwards-compatible manner, and 3) PATCH version when you make backwards-compatible bug fixes.
 
 
 ## Miscellaneous
