@@ -299,3 +299,15 @@ I used to think you should try to deconstruct everything. Experience everything.
 I wish that I had better access to the proposals that I had personally written because I had a whole bunch of f****** terrible, terrible ideas and [Slack] was the one that had the broadest consensus among the team as being something that would be valuable.
 
 *[Stewart Butterfield, founder of Flickr and Slack](https://www.youtube.com/watch?v=zsBjAuexPq4&t=7m14s)*
+
+---
+
+My mentor Luis Alvarez set aside an hour or two every Friday afternoon for thinking out of the box. He reviewed what he knew, with particular attention to what he had learned in the last week. He thought about all the outstanding problems he was aware of, and reviewed whether his new knowledge had any bearing. He didn’t restrict himself to being practical, but tried to open his imagination. He knew about major discoveries (and Nobel Prizes) that had been missed by him, by his father (who was a medical scientist), and by many others simply because they didn’t forget their daily cares for just an hour or two and think openly.
+
+*[Richard Muller](https://www.quora.com/What-is-the-one-habit-that-can-transform-your-world-forever/answer/Richard-Muller-3)*
+
+---
+
+You cannot invent and pioneer if you cannot accept failure. To invent you need to experiment, and if you know in advance that it's going to work, it is not an experiment...They're inseparable twins, failure and invention.
+
+*[Jeff Bezos](https://www.youtube.com/watch?v=LqL3tyCQ1yY#t=10m14s)*
