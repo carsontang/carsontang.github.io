@@ -311,3 +311,9 @@ My mentor Luis Alvarez set aside an hour or two every Friday afternoon for think
 You cannot invent and pioneer if you cannot accept failure. To invent you need to experiment, and if you know in advance that it's going to work, it is not an experiment...They're inseparable twins, failure and invention.
 
 *[Jeff Bezos](https://www.youtube.com/watch?v=LqL3tyCQ1yY#t=10m14s)*
+
+---
+
+Invention isn't disruptive. Only customer adoption is disruptive.
+
+*[Jeff Bezos](https://www.youtube.com/watch?v=LqL3tyCQ1yY#t=12m14s)*
