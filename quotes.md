@@ -317,3 +317,9 @@ You cannot invent and pioneer if you cannot accept failure. To invent you need t
 Invention isn't disruptive. Only customer adoption is disruptive.
 
 *[Jeff Bezos](https://www.youtube.com/watch?v=LqL3tyCQ1yY#t=12m14s)*
+
+---
+
+The most creative insights happen at the boundaries between disciplines.
+
+*[Adam Grant](https://www.youtube.com/watch?v=T8ugPibs5Us&t=18m7s)*
