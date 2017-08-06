@@ -274,7 +274,7 @@ The man who follows the crowd will usually get no further than the crowd. The ma
 
 ---
 
-The most common strategy with guys who are inexperienced with women is "to be liked by all; hated by none". This is a horrible strategy. You have to either make the decision to accept being controversial and confrontational or you need to accept that you will go through life with everyone being neutral towards you. You CANNOT be an attractive and life-changing presence to some women without being a joke or an embarrassment to others. You have to polarize.
+You have to either make the decision to accept being controversial and confrontational or you need to accept that you will go through life with everyone being neutral towards you. You CANNOT be an attractive and life-changing presence to some ... without being a joke or an embarrassment to others. You have to polarize.
 
 *Mark Manson*
 
@@ -323,3 +323,9 @@ Invention isn't disruptive. Only customer adoption is disruptive.
 The most creative insights happen at the boundaries between disciplines.
 
 *[Adam Grant](https://www.youtube.com/watch?v=T8ugPibs5Us&t=18m7s)*
+
+---
+
+As a filmmaker you’re looking for gaps in the culture, pop culture at least; you’re looking for things that haven’t been addressed in movies.
+
+*[Christopher Nolan](https://www.nytimes.com/2017/07/12/movies/dunkirk-christopher-nolan-interview.html)*
