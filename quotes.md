@@ -329,3 +329,9 @@ The most creative insights happen at the boundaries between disciplines.
 As a filmmaker you’re looking for gaps in the culture, pop culture at least; you’re looking for things that haven’t been addressed in movies.
 
 *[Christopher Nolan](https://www.nytimes.com/2017/07/12/movies/dunkirk-christopher-nolan-interview.html)*
+
+---
+
+Very little is truly new in innovation...Innovations don't have to be new to the world-only to a market or industry.
+
+*Larry Keeley*
