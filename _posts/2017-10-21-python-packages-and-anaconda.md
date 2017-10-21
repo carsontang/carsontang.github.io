@@ -14,6 +14,7 @@ tags: [python]
 `conda info` - display Anaconda information related to your computer's setup
 
 ### Setting up Mayavi with Python 3.5
+* Mayavi works on Python 3 now! Simply follow the instructions below, and the proper dependencies will be installed.
 * Download [CarND Term 1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
 * Add `conda install -c menpo mayavi=4.5.0` to the `environment.yml` file
 * Specifically, `mayavi` (version 4.5.0) from the `menpo` channel must be installed. Also install `numpy`.
