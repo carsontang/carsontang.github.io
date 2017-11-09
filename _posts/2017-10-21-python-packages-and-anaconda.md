@@ -19,3 +19,12 @@ tags: [python]
 * Add `conda install -c menpo mayavi=4.5.0` to the `environment.yml` file
 * Specifically, `mayavi` (version 4.5.0) from the `menpo` channel must be installed. Also install `numpy`.
 * All of Mayavi's dependencies will be installed.
+
+### Displaying Mayavi in Jupyter
+
+Tips taken from here: http://docs.enthought.com/mayavi/mayavi/tips.html
+
+Install JavaScript files: `jupyter nbextension install --py mayavi --user`
+
+After installing the JavaScript files, the following instructions are given, but **they don't work with the environment above**. To initialize this nbextension in the browser every time the notebook (or other app) loads:
+`jupyter nbextension enable mayavi --user --py`
