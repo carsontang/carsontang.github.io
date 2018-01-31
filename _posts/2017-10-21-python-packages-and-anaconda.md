@@ -11,7 +11,9 @@ tags: [python]
 * [**Anaconda channel**](https://conda.io/docs/glossary.html#channels) - The locations of the repositories where conda looks for packages. Channels may point to a Cloud repository or a private location on a remote or local repository that you or your organization created. 
 
 ### Anaconda commands
-`conda info` - display Anaconda information related to your computer's setup
+* `conda info` - display Anaconda information related to your computer's setup
+* `conda env update -f <filename>` - download any new Python modules specified in the file
+
 
 ### Setting up Mayavi with Python 3.5
 * Mayavi works on Python 3 now! Simply follow the instructions below, and the proper dependencies will be installed.
