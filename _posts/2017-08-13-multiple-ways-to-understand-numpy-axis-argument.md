@@ -31,3 +31,6 @@ But what does it means to **operate along an axis**? As you can see from the dia
 
 
 The other way to understand this is if you specify `axis=0`, you're telling numpy to make that axis disappear in the resulting numpy array. So if you start out with a `(3,2,4)` array, you want to get a `(2,4)` array. To do this, visualize that a `(3,2,4)` array is the same as **three (2,4)** arrays. Then combine all three of those `(2,4)` arrays with the specified operation. In the diagram above, the three arrays are combined to produce a mean.
+
+# Numpy Padding
+To pad a 2D numpy matrix with zeroes, `np.pad(a, [(1,1),(1,1)], 'constant', constant_values=[(0,0),(0,0)])`. This takes in a 2x2 matrix of 1's, and puts 1 layer of 0s all around it.
