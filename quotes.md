@@ -262,7 +262,7 @@ You get the good ideas by being down in the mud and working on the problems. Itâ
 
 ---
 
-If you wanna know about the future, you need to ask the young people who will create it. young people don't know what can't be done, and so they go ahead and do it.
+If you wanna know about the future, you need to ask the young people who will create it. Young people don't know what can't be done, and so they go ahead and do it.
 
 [Source](https://www.youtube.com/watch?v=dsMKJKTOte0&t=130s)
 
