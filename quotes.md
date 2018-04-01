@@ -335,3 +335,9 @@ As a filmmaker you’re looking for gaps in the culture, pop culture at least; y
 Very little is truly new in innovation...Innovations don't have to be new to the world-only to a market or industry.
 
 *Larry Keeley*
+
+---
+
+On my second day, Mark [Zuckerberg] said to me, "Hey, I need you to write Facebook’s search engine." I had no clue how to do that. I’d never built a search engine before. And I remember Mark looking at me and saying, "Yeah, I didn’t know how to write Facebook. So if I can write Facebook, why can’t you write the search engine?" And yeah, that was logically consistent.
+
+*[Aditya Agarwal](http://www.latimes.com/business/la-fi-tn-himi-aditya-agarwal-20170518-htmlstory.html), early Facebooker, former Dropbox CTO*
