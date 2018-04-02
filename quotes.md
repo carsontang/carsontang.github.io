@@ -341,3 +341,9 @@ Very little is truly new in innovation...Innovations don't have to be new to the
 On my second day, Mark [Zuckerberg] said to me, "Hey, I need you to write Facebook’s search engine." I had no clue how to do that. I’d never built a search engine before. And I remember Mark looking at me and saying, "Yeah, I didn’t know how to write Facebook. So if I can write Facebook, why can’t you write the search engine?" And yeah, that was logically consistent.
 
 *[Aditya Agarwal](http://www.latimes.com/business/la-fi-tn-himi-aditya-agarwal-20170518-htmlstory.html), early Facebooker, former Dropbox CTO*
+
+---
+
+You can do so much in ten minutes' time. Ten minutes, once gone, are gone for good. Divide your life into ten-minute units and sacrifice as few of them as possible in meaningless activity.
+
+*Ingvar Kamprad, founder of IKEA*
