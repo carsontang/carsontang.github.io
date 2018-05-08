@@ -367,3 +367,9 @@ Another factor was that the business should be unique. That was very important t
 I had all those measurements, about 25 in all, and 40 new ideas. I took a big sheet of paper, and I drew a matrix and put down scores and comments for each. Then I picked the best one, which turned out to be the personal computer software business. That was the start of Softbank.
 
 *[Masayoshi Son, on how he started Softbank](https://hbr.org/1992/01/japanese-style-entrepreneurship-an-interview-with-softbanks-ceo-masayoshi-son)*
+
+---
+
+I told him, I have very little money, very little business experience. I have no product, nothing. What I do have is the greatest enthusiasm, the greatest desire to succeed. I said, you have already been purchasing some PC software. Today you probably have more knowledge and more experience at this than I do. You are older than I am and more talented. But in addition to purchasing PC software and hardware, you are also going to purchase home electronics products, refrigerators, televisions, VCRs. I will dedicate all my time and effort, all my energy, my entire spirit to PC software only. Several months from now, who do you think will be more knowledgeable, more of a specialist in this business? If you want to be the number one PC dealer in Japan, you have to find the number one guy in software distribution. That’s me. I have no evidence, but I strongly believe in myself.
+
+*[Masayoshi Son, on how he convinced the company president to believe in him](https://hbr.org/1992/01/japanese-style-entrepreneurship-an-interview-with-softbanks-ceo-masayoshi-son)*
