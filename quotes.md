@@ -347,3 +347,11 @@ On my second day, Mark [Zuckerberg] said to me, "Hey, I need you to write Facebo
 You can do so much in ten minutes' time. Ten minutes, once gone, are gone for good. Divide your life into ten-minute units and sacrifice as few of them as possible in meaningless activity.
 
 *Ingvar Kamprad, founder of IKEA*
+
+---
+
+People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.
+
+If you look at these carefully, you don’t think the skull has the most value. The brain is more valuable than the skull. But everybody has a brain. Inside the brain are wisdom and knowledge. Wisdom and knowledge are the most valuable things in the body. I want to be number one in the business of supplying wisdom and knowledge all over Japan. But the knowledge industry is too big, too wide. So we specialize in the PC industry’s knowledge.
+
+*[Masayoshi Son](https://hbr.org/1992/01/japanese-style-entrepreneurship-an-interview-with-softbanks-ceo-masayoshi-son)*
