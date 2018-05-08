@@ -373,3 +373,9 @@ I had all those measurements, about 25 in all, and 40 new ideas. I took a big sh
 I told him, I have very little money, very little business experience. I have no product, nothing. What I do have is the greatest enthusiasm, the greatest desire to succeed. I said, you have already been purchasing some PC software. Today you probably have more knowledge and more experience at this than I do. You are older than I am and more talented. But in addition to purchasing PC software and hardware, you are also going to purchase home electronics products, refrigerators, televisions, VCRs. I will dedicate all my time and effort, all my energy, my entire spirit to PC software only. Several months from now, who do you think will be more knowledgeable, more of a specialist in this business? If you want to be the number one PC dealer in Japan, you have to find the number one guy in software distribution. That’s me. I have no evidence, but I strongly believe in myself.
 
 *[Masayoshi Son, on how he convinced the company president to believe in him](https://hbr.org/1992/01/japanese-style-entrepreneurship-an-interview-with-softbanks-ceo-masayoshi-son)*
+
+---
+
+It is vital for you to choose the industry which will become the mainstream in the future. You should perceive the growing trends at first and adjust the business condition in time. Spot the trend and invest firmly, running through it by action instead of sticking to trifles.
+
+*[Masayoshi Son, wisdom from the Biography of Masayoshi Son](https://www.amazon.com/Biography-Masayoshi-Son-Chinese/dp/7504491357/)*
