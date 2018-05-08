@@ -354,4 +354,16 @@ People usually compare the computer to the head of the human being. I would say 
 
 If you look at these carefully, you don’t think the skull has the most value. The brain is more valuable than the skull. But everybody has a brain. Inside the brain are wisdom and knowledge. Wisdom and knowledge are the most valuable things in the body. I want to be number one in the business of supplying wisdom and knowledge all over Japan. But the knowledge industry is too big, too wide. So we specialize in the PC industry’s knowledge.
 
-*[Masayoshi Son](https://hbr.org/1992/01/japanese-style-entrepreneurship-an-interview-with-softbanks-ceo-masayoshi-son)*
+*[Masayoshi Son, founder of Softbank](https://hbr.org/1992/01/japanese-style-entrepreneurship-an-interview-with-softbanks-ceo-masayoshi-son)*
+
+---
+
+For a year and a half, I did research and made business plans. While I prepared, I had no income. I spent money, I had a new baby. My wife was worried. All my friends, my father, my mother, everybody was worried. They asked me, what are you going to do? You spent years studying in the United States, and now you aren’t doing anything. I spent all my time just thinking and thinking, studying what to do. I went to the library and bookstores. I bought books, I read all kinds of materials to prepare for what I would do for the next 50 years.
+
+I came up with 40 new business ideas—everything from creating software to setting up hospital chains, since my wife’s father is a doctor and has a hospital. Then I had about 25 success measures that I used to decide which idea to pursue. One success measure was that I should fall in love with a particular business for the next 50 years at least. Very often, people get excited for the first few years, and then, after they see the reality, they get tired of the business. I wanted to choose one that I would feel more and more excited about as the years passed.
+
+Another factor was that the business should be unique. That was very important to me. I didn’t want anyone else doing exactly the same thing. A third was that within 10 years I wanted to be number one in that particular business, at least in Japan. And I wanted to pick a business where the business category itself would be growing for the next 30 to 50 years. I didn’t want to choose a sinking ship.
+
+I had all those measurements, about 25 in all, and 40 new ideas. I took a big sheet of paper, and I drew a matrix and put down scores and comments for each. Then I picked the best one, which turned out to be the personal computer software business. That was the start of Softbank.
+
+*[Masayoshi Son, on how he started Softbank](https://hbr.org/1992/01/japanese-style-entrepreneurship-an-interview-with-softbanks-ceo-masayoshi-son)*
