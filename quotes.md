@@ -379,3 +379,9 @@ I told him, I have very little money, very little business experience. I have no
 It is vital for you to choose the industry which will become the mainstream in the future. You should perceive the growing trends at first and adjust the business condition in time. Spot the trend and invest firmly, running through it by action instead of sticking to trifles.
 
 *[Masayoshi Son, wisdom from the Biography of Masayoshi Son](https://www.amazon.com/Biography-Masayoshi-Son-Chinese/dp/7504491357/)*
+
+---
+
+The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.
+
+*Mark Weiser*
