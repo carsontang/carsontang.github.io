@@ -385,3 +385,9 @@ It is vital for you to choose the industry which will become the mainstream in t
 The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.
 
 *Mark Weiser*
+
+---
+
+Man is flowing. In him there are all possibilities: he was stupid, now he is clever; he was evil, now he is good, and the other way around. In this is the greatness of man.
+
+*Leo Tolstoy*
