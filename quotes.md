@@ -391,3 +391,9 @@ The most profound technologies are those that disappear. They weave themselves i
 Man is flowing. In him there are all possibilities: he was stupid, now he is clever; he was evil, now he is good, and the other way around. In this is the greatness of man.
 
 *Leo Tolstoy*
+
+---
+
+But influence in society is a capital that must be used sparingly, lest it disappear. Prince Vassily knew that and, having once realized that if he were to solicit for everyone who solicited from him, it would soon become impossible for him to solicit for himself, he rarely used his influence.
+
+*War and Peace, translated by Richard Pevear*
