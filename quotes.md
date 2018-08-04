@@ -397,3 +397,9 @@ Man is flowing. In him there are all possibilities: he was stupid, now he is cle
 But influence in society is a capital that must be used sparingly, lest it disappear. Prince Vassily knew that and, having once realized that if he were to solicit for everyone who solicited from him, it would soon become impossible for him to solicit for himself, he rarely used his influence.
 
 *War and Peace, translated by Richard Pevear*
+
+---
+
+"Many a man who is supposed to have, say, ten years' experience has really had only one years' experience repeated ten times over."
+
+*J. Paul Getty, **How to be Rich**, quoting Roger Falk*
