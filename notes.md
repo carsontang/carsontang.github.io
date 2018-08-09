@@ -137,3 +137,33 @@ to rewrite the UI framework.
 * [Instacart Online Grocery Shopping Dataset 2017, 3 million grocery orders from 200,000+ Instacart users.](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2)
 * [Mapillary Vistas Dataset—the world’s largest and most diverse publicly available, pixel-accurately and instance-specifically annotated street-level imagery dataset](http://blog.mapillary.com/product/2017/05/03/mapillary-vistas-dataset.html)
 * [List of medical datasets](https://github.com/beamandrew/medical-data)
+
+### C/C++
+
+* The double hash (\#\#) macro operator concatenates two separated tokens. [Read more](https://www.cprogramming.com/reference/preprocessor/token-pasting-operator.html).
+
+{% highlight c %}
+
+#include <stdio.h>
+
+#define DECLARE_AND_SET(type, varname, value) \
+        type varname = value;                 \
+        type orig_##varname = value
+
+void advance_time(int *age)
+{
+        (*age)++;
+}
+
+int main()
+{
+        DECLARE_AND_SET(int, age, 28);
+        advance_time(&age);
+
+        printf("orig_age: %d\n", orig_age);
+        printf("age: %d\n", age);
+}
+
+{% endhighlight %}
+
+* `__attribute__((constructor))` is GCC constructor syntax. C constructors run before the `main` method. [Read more](https://www.geeksforgeeks.org/__attribute__constructor-__attribute__destructor-syntaxes-c/).
