@@ -146,6 +146,10 @@ to rewrite the UI framework.
 
 #include <stdio.h>
 
+// Use this macro to initialize a variable
+
+// and create another orig variable to accompany it
+
 #define DECLARE_AND_SET(type, varname, value) \
         type varname = value;                 \
         type orig_##varname = value
