@@ -171,3 +171,5 @@ int main()
 {% endhighlight %}
 
 * `__attribute__((constructor))` is GCC constructor syntax. C constructors run before the `main` method. [Read more](https://www.geeksforgeeks.org/__attribute__constructor-__attribute__destructor-syntaxes-c/).
+
+* [predefined compiler macros](https://sourceforge.net/p/predef/wiki/Home/)
