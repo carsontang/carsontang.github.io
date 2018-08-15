@@ -113,6 +113,10 @@ mathjax: true
 
 
 ## Miscellaneous
+
+### Why PUBG and Fortnite have circular safe areas
+Brendan "PlayerUnknown" Greene didn't have coding experience while making the first battle royale mod for ArmA 2, so instead of using the intended square safe areas, he coded circular ones instead. [Source](http://pubg.wikia.com/wiki/Brendan_Greene)
+
 ### Why Android isn't as smooth as iPhone
 
 Android UI will never be completely smooth because of the following design constraints:
@@ -173,3 +177,23 @@ int main()
 * `__attribute__((constructor))` is GCC constructor syntax. C constructors run before the `main` method. [Read more](https://www.geeksforgeeks.org/__attribute__constructor-__attribute__destructor-syntaxes-c/).
 
 * [predefined compiler macros](https://sourceforge.net/p/predef/wiki/Home/)
+
+---
+## OMSCS
+
+* Take AI4R in either Fall/Spring so that SLAM project is available.
+
+---
+
+## Computer Graphics
+* definition - convert description of 3D scene to a 2D image on a computer screen
+* 3D scenes are passed into a **graphics pipeline** and converted into a 2D image.
+* Only some parts of a graphics pipeline are **programmable**
+* Programmable parts of a real-time graphics pipeline are programmed by **shaders**. Shaders used to shade in parts of the screen, and now they do so much more than sometimes they're not even performing graphics computation.
+* graphics pipelines only draw simple things, such as points, lines, and triangles. That's it.
+* These **primitives** are made up of **vertices**
+
+## Video
+Why is a forward seek on Netflix almost instantaneous vs a backward seek?
+
+Codecs take into account that video players play forward, not backward. When seeking backward, the keyframe before the frame you're seeking needs to be found and then frames are built from that point on. Furthermore, video players often buffer frames ahead and remove them from the cache once they're played.
