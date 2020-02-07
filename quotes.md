@@ -403,3 +403,9 @@ But influence in society is a capital that must be used sparingly, lest it disap
 "Many a man who is supposed to have, say, ten years' experience has really had only one years' experience repeated ten times over."
 
 *J. Paul Getty, **How to be Rich**, quoting Roger Falk*
+
+---
+
+"They're mercenaries. You're missionaries."
+
+*Paul Graham, **Blitzscaling**, advising Brian Chesky not to buy Samwer brothers' European Airbnb clone*
