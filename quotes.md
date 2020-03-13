@@ -409,3 +409,15 @@ But influence in society is a capital that must be used sparingly, lest it disap
 "They're mercenaries. You're missionaries."
 
 *Paul Graham, **Blitzscaling**, advising Brian Chesky not to buy Samwer brothers' European Airbnb clone*
+
+---
+
+"Passive Information Acquisition: What you see or read determines what kind of person you are and what kind of thoughts you will have."
+
+*Allen Zhang, [Source](https://www.youtube.com/watch?v=0-EzxRXmRiE)*
+
+---
+
+"Modern war always causes governments to spend far more than they can possibly collect from their taxpayers while the war is being waged.This causes a vast increase in the amount of money, so that each individual unit of money, such as a dollar, becomes worth less than it was before. It takes lots more dollars to buy the same number of shares of stock.This, of course, is the classic form of inflation."
+
+*Philip Fisher, **Common Stocks and Uncommon Profits** *
