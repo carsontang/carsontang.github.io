@@ -420,4 +420,10 @@ But influence in society is a capital that must be used sparingly, lest it disap
 
 "Modern war always causes governments to spend far more than they can possibly collect from their taxpayers while the war is being waged.This causes a vast increase in the amount of money, so that each individual unit of money, such as a dollar, becomes worth less than it was before. It takes lots more dollars to buy the same number of shares of stock.This, of course, is the classic form of inflation."
 
-*Philip Fisher, Common Stocks and Uncommon Profits* 
+*Philip Fisher, Common Stocks and Uncommon Profits*
+
+---
+
+"You don't need to be better or faster or cheaper than everyone...In life there are multiple gold medals. If you try to be the best at everything and better than everyone...you'll be the best at nothing and better than no one."
+
+*Reid Hoffman, The Start-Up of You*
