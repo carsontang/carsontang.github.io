@@ -193,6 +193,12 @@ int main()
 * graphics pipelines only draw simple things, such as points, lines, and triangles. That's it.
 * These **primitives** are made up of **vertices**
 
+## Useful Hacker News Posts
+* [Brian Armstrong, CEO of Coinbase, looking for a cofounder in 2012](https://news.ycombinator.com/item?id=3754664)
+
+## Useful Tweets
+* [Why Grayscale premium is gone](https://twitter.com/MrBenLilly/status/1377274010115915784)
+
 ## Video
 Why is a forward seek on Netflix almost instantaneous vs a backward seek?
 
