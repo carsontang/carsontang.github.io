@@ -427,3 +427,9 @@ But influence in society is a capital that must be used sparingly, lest it disap
 "You don't need to be better or faster or cheaper than everyone...In life there are multiple gold medals. If you try to be the best at everything and better than everyone...you'll be the best at nothing and better than no one."
 
 *Reid Hoffman, The Start-Up of You*
+
+---
+
+"Fall in love with the process and the results will follow."
+
+*Unknown*
