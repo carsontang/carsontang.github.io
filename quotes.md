@@ -433,3 +433,10 @@ But influence in society is a capital that must be used sparingly, lest it disap
 "Fall in love with the process and the results will follow."
 
 *Unknown*
+
+---
+
+"One of the early products you worked on was Chrome. You led the team, and initially, there was some pushback. High development costs, competitors in the space, but you had conviction that the browser was the way to go..."
+"Eric Schmidt said, 'Do you know what it takes to build a browser?' Partly how did I do it, I didn't tell people for a while. Just had a small team and worked on it, and only when we had something to show, we had a chance to show the product, and that got people excited."
+
+*Sundar Pichai*
