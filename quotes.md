@@ -440,3 +440,11 @@ But influence in society is a capital that must be used sparingly, lest it disap
 "Eric Schmidt said, 'Do you know what it takes to build a browser?' Partly how did I do it, I didn't tell people for a while. Just had a small team and worked on it, and only when we had something to show, we had a chance to show the product, and that got people excited."
 
 *Sundar Pichai*
+
+---
+
+"It says, 'Look at your fish.' It’s the test that Louis Agassiz, the nineteenth-century Harvard naturalist, gave every new student. He would take an odorous old fish out of a jar, set it in a tin pan in front of the student and say, Look at your fish. Then Agassiz would leave. When he came back, he would ask the student what he’d seen. Not very much, they would most often say, and Agassiz would say it again: Look at your fish. This could go on for days. The student would be encouraged to draw the fish but could use no tools for the examination, just hands and eyes. Samuel Scudder, who later became a famous entomologist and expert on grasshoppers, left us the best account of the 'ordeal with the fish.' After several days, he still could not see whatever it was Agassiz wanted him to see. But, he said, I see how little I saw before. Then Scudder had a brainstorm and he announced it to Agassiz the next morning: Paired organs, the same on both sides. Of course! Of course! Agassiz said, very pleased. So Scudder naturally asked what he should do next, and Agassiz said, Look at your fish.
+
+I love that story and have used it often when teaching classes on writing, because seeing is so important in this work. Insight comes, more often than not, from looking at what’s been on the table all along, in front of everybody, rather than from discovering something new. Seeing is as much the job of an historian as it is of a poet or a painter, it seems to me. That’s Dickens’s great admonition to all writers, 'Make me see.'"
+
+*David McCullough*
