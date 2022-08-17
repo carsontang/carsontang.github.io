@@ -448,3 +448,9 @@ But influence in society is a capital that must be used sparingly, lest it disap
 I love that story and have used it often when teaching classes on writing, because seeing is so important in this work. Insight comes, more often than not, from looking at what’s been on the table all along, in front of everybody, rather than from discovering something new. Seeing is as much the job of an historian as it is of a poet or a painter, it seems to me. That’s Dickens’s great admonition to all writers, 'Make me see.'"
 
 *David McCullough*
+
+---
+
+"Consumers always want to have cheaper, faster, better."
+
+[*David Friedberg*](https://www.youtube.com/watch?v=mxQMdk6jCKU&t=22s&ab_channel=All-InPodcast)
