@@ -454,3 +454,9 @@ I love that story and have used it often when teaching classes on writing, becau
 "Consumers always want to have cheaper, faster, better."
 
 [*David Friedberg*](https://www.youtube.com/watch?v=mxQMdk6jCKU&t=22s&ab_channel=All-InPodcast)
+
+---
+
+"[FDR] grabbed a cocktail napkin and sketched a three-point plan stripped to its bare bones – 1) Hold four key territories 2) Attack Japan 3) Attack France. Whenever anyone tells me a problem is too complex to solve with a clear, simple plan, I show them the napkin. Is the problem you are trying to solve really more complicated than World War II?
+
+[Jay Walker](https://www.amazon.com/Speed-Scale-Global-Solving-Climate-ebook/dp/B08XJ2MXSR/)
