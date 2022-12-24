@@ -466,3 +466,9 @@ I love that story and have used it often when teaching classes on writing, becau
 "I think one of the most important aspects of engineering is that you try to get all the hard information you can, so you get a stronger base. And then you have to take that next step, which is going to be based on intuition and gut feeling. You can't have full information. And indeed, of course one of the things we always caution people working for Linkabit now Qualcomm is try to do a good job, but you don't have to do the absolutely best job. That is, you don't have to go up to that flat part of the S-curve because it'll take forever, and you're going beyond what needs to be done."
 
 [Irwin Jacobs, cofounder and CEO of Qualcomm](https://www.youtube.com/watch?v=eVLR8WF2Lbg&t=33m40s&ab_channel=UniversityofCaliforniaTelevision%28UCTV%29)
+
+---
+
+"Engineering is very exciting, as are the sciences in general. They're critical to our further economic growth, so I think that jobs will be available. Yes, I strongly recommend [engineering]. I also tell students that change is always going to be with us; it is, in fact, accelerating, and therefore it's very important to get as basic an education as possible. Students shouldn't take only courses in the most current technology but in basic materials, science, mathematics, and engineering. Students will go through many changes during their work lifetimes, so it's important to have a good background; later on, they can always get the applied knowledge."
+
+[Irwin Jacobs, speaking to IEEE Computer Society](https://www.computer.org/csdl/magazine/dt/2005/03/d3268/13rRUxbCbpr)
