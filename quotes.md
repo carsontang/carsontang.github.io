@@ -460,3 +460,9 @@ I love that story and have used it often when teaching classes on writing, becau
 "[FDR] grabbed a cocktail napkin and sketched a three-point plan stripped to its bare bones – 1) Hold four key territories 2) Attack Japan 3) Attack France. Whenever anyone tells me a problem is too complex to solve with a clear, simple plan, I show them the napkin. Is the problem you are trying to solve really more complicated than World War II?
 
 [Jay Walker](https://www.amazon.com/Speed-Scale-Global-Solving-Climate-ebook/dp/B08XJ2MXSR/)
+
+---
+
+"I think one of the most important aspects of engineering is that you try to get all the hard information you can, so you get a stronger base. And then you have to take that next step, which is going to be based on intuition and gut feeling. You can't have full information. And indeed, of course one of the things we always caution people working for Linkabit now Qualcomm is try to do a good job, but you don't have to do the absolutely best job. That is, you don't have to go up to that flat part of the S-curve because it'll take forever, and you're going beyond what needs to be done."
+
+[Irwin Jacobs, cofounder and CEO of Qualcomm](https://www.youtube.com/watch?v=eVLR8WF2Lbg&t=33m40s&ab_channel=UniversityofCaliforniaTelevision%28UCTV%29)
