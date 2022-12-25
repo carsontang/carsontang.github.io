@@ -478,3 +478,9 @@ I love that story and have used it often when teaching classes on writing, becau
 "One of things we always try to do is to have intellectual ferment...In business, you can easily end up just putting out fires. You don't want to be in that situation."
 
 [Irwin Jacobs](https://www.youtube.com/watch?v=eVLR8WF2Lbg&t=8m5s&ab_channel=UniversityofCaliforniaTelevision%28UCTV%29)
+
+---
+
+"We had a kind of approach to business. That approach was basically to try to be very innovative, to try to be very open, to be very opportunistic, to look for possible areas in which we might be able to bring some new technology, do something that could make a difference if we could then develop it rapidly enough, and ultimately end up with products."
+
+[Irwin Jacobs on his approach to business](https://www.youtube.com/watch?v=eVLR8WF2Lbg&t=9m10s&ab_channel=UniversityofCaliforniaTelevision%28UCTV%29)
