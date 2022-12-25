@@ -457,7 +457,7 @@ I love that story and have used it often when teaching classes on writing, becau
 
 ---
 
-"[FDR] grabbed a cocktail napkin and sketched a three-point plan stripped to its bare bones – 1) Hold four key territories 2) Attack Japan 3) Attack France. Whenever anyone tells me a problem is too complex to solve with a clear, simple plan, I show them the napkin. Is the problem you are trying to solve really more complicated than World War II?
+"[FDR] grabbed a cocktail napkin and sketched a three-point plan stripped to its bare bones – 1) Hold four key territories 2) Attack Japan 3) Attack France. Whenever anyone tells me a problem is too complex to solve with a clear, simple plan, I show them the napkin. Is the problem you are trying to solve really more complicated than World War II?"
 
 [Jay Walker](https://www.amazon.com/Speed-Scale-Global-Solving-Climate-ebook/dp/B08XJ2MXSR/)
 
@@ -472,3 +472,9 @@ I love that story and have used it often when teaching classes on writing, becau
 "Engineering is very exciting, as are the sciences in general. They're critical to our further economic growth, so I think that jobs will be available. Yes, I strongly recommend [engineering]. I also tell students that change is always going to be with us; it is, in fact, accelerating, and therefore it's very important to get as basic an education as possible. Students shouldn't take only courses in the most current technology but in basic materials, science, mathematics, and engineering. Students will go through many changes during their work lifetimes, so it's important to have a good background; later on, they can always get the applied knowledge."
 
 [Irwin Jacobs, speaking to IEEE Computer Society](https://www.computer.org/csdl/magazine/dt/2005/03/d3268/13rRUxbCbpr)
+
+---
+
+"One of things we always try to do is to have intellectual ferment...In business, you can easily end up just putting out fires. You don't want to be in that situation."
+
+[Irwin Jacobs](https://www.youtube.com/watch?v=eVLR8WF2Lbg&t=8m5s&ab_channel=UniversityofCaliforniaTelevision%28UCTV%29)
