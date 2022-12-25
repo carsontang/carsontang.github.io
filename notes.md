@@ -36,6 +36,7 @@ mathjax: true
 * According to Brian, "your life will have storms, but storms don't last forever."
 * 1-800-GOT-JUNK's new CEO lowered goals to increase the team's confidence and morale.
 * Amazon likes to set high standards. [Jeff Bezos told the Echo developers that the device had to respond to any query in 1 second, even though the state of the art at the time was 2.5 seconds.](http://www.businessinsider.com/the-inside-story-of-how-amazon-created-echo-2016-4)
+* CDMA had a factor of 10 advantage over existing technology, which is why Irwin Jacobs, cofounder and CEO of Qualcomm, bet on it. Look for technology that gives you a 10x advantage over the status quo.
 
 ## Career
 * Ask your peers for judgment since they are also actively working on the
