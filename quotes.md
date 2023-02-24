@@ -484,3 +484,9 @@ I love that story and have used it often when teaching classes on writing, becau
 "We had a kind of approach to business. That approach was basically to try to be very innovative, to try to be very open, to be very opportunistic, to look for possible areas in which we might be able to bring some new technology, do something that could make a difference if we could then develop it rapidly enough, and ultimately end up with products."
 
 [Irwin Jacobs on his approach to business](https://www.youtube.com/watch?v=eVLR8WF2Lbg&t=9m10s&ab_channel=UniversityofCaliforniaTelevision%28UCTV%29)
+
+---
+
+"It's tremendously hard to get teams to be super ambitious. It turns out most people haven’t been educated in this kind of moonshot thinking. They tend to assume that things are impossible, rather than starting from real-world physics and figuring out what’s actually possible."
+
+Excerpt From How Google Works by Eric Schmidt
