@@ -490,3 +490,9 @@ I love that story and have used it often when teaching classes on writing, becau
 "It's tremendously hard to get teams to be super ambitious. It turns out most people haven’t been educated in this kind of moonshot thinking. They tend to assume that things are impossible, rather than starting from real-world physics and figuring out what’s actually possible."
 
 Excerpt From How Google Works by Eric Schmidt
+
+---
+
+"In some sense, the basic principles of scientific method, or at least their wellsprings in common sense, are obvious and compelling. But these principles are also difficult, challenging, and exacting. They yield their secrets and benefits only to those who pay their dues and do their work. Surely it is sobering to realize in historical perspective that civilizations rose and fell around the globe for millennia before anything recognizable as the scientific method emerged (say around A.D. 1200 to 1600 by various accounts). So there must be some limit to that view about scientific principles being obvious."
+
+Hugh Gaugh, Scientific Method in Practice, pg. 11
