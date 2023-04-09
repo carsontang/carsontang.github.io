@@ -76,6 +76,16 @@ mathjax: true
 * "How to Build a Great Bot" was the number one session at F8 2017. Companies want to make great bots!
 * Object recognition software that translates real-world objects into Simplified Chinese
 
+## Science
+### Deduction vs Induction
+Deduction is the formation of conclusion based on generally accepted statements or facts. In deduction, truth of the conclusion is guaranteed by truth of the statements or facts considered. Induction involves a generalized conclusion from particular instances. It involves an element of probability. For example, you observe that all CS majors work until 2am at the computer lab. You induce that all CS majors ever work until 2am at the computer lab.
+
+Given model ---> use deduction ---> expected data
+
+Inferred model <--- use induction <--- actual data
+
+Deduction reasons from the mind to the world. Induction reasons from the world to the mind.
+
 ## Software Development
 * Don't be afraid to read code, extract essentials, and never limit yourself! Be
 	nimble in your thinking.
