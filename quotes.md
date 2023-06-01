@@ -1,4 +1,4 @@
----
+"---
 layout: page
 title: Quotes
 permalink: /quotes/
@@ -496,3 +496,18 @@ Excerpt From How Google Works by Eric Schmidt
 "In some sense, the basic principles of scientific method, or at least their wellsprings in common sense, are obvious and compelling. But these principles are also difficult, challenging, and exacting. They yield their secrets and benefits only to those who pay their dues and do their work. Surely it is sobering to realize in historical perspective that civilizations rose and fell around the globe for millennia before anything recognizable as the scientific method emerged (say around A.D. 1200 to 1600 by various accounts). So there must be some limit to that view about scientific principles being obvious."
 
 Hugh Gaugh, Scientific Method in Practice, pg. 11
+
+---
+
+"We have more ideas than we have good ideas. The truth is ... ideas really aren't what build a company. It’s execution. You need to do something which is going to be important to some audience. One of the mistakes that I find that budding entrepreneurs often make is that they're trying to provide a little bit of value to a lot of people...It’s hard to convince somebody to use your product...Marketing, distribution, creating awareness of what you're doing, it's a real challenge. If you have the choice between creating compelling value for a very small group of people and modest value for a much larger group, always go for the compelling value, because that will be your beachhead, and you will be able to reach those people and they will look at what you're doing and say, 'My God, that's for me. You are addressing my concerns.' You may be able to efficiently reach them through a marketing campaign that you can actually afford because there's an identifiable subset. The sales process isn't going to take you nine months, because the value proposition to that customer is so high and they'll overlook the fact that you’re a young company. There’re all of these reasons why the compelling value, even if it's to a very restricted audience, is a much better forward than more modest value. Modest value, how do you get people's attention? Remember this precious idea that you've been working on for the last three years and then you write someone a letter. It's your brainchild, but it's their junk mail. When people read their mailbox, they're executing an algorithm, and the algorithm typically is how can I delete this? How much of this do I need to read before I can make the decision to delete it? They're not looking for something that's going to improve their life, or improve their business, or improve their processes. What they're looking for is to clear out their inbox. It might be your shining apple. It's their burden to get through this message. They'll look for something that can categorize it as to something that they know they don't need so they can hit the delete button. They’ll look for the keyword that lets them say, 'I know what that is.' It's gone. If you have compelling value for some audience, that audience is much more likely to say, 'Wow! I need to talk to these people.' Probably that's the number one mistake now we make as new entrepreneurs. I certainly did that enough times."
+
+[Jeff Rothschild](https://softwareengineeringdaily.com/wp-content/uploads/2019/10/SED936-FB-Jeff-Rothschild-Entrepreneurship.pdf)
+
+---
+
+Another aspect of being an entrepreneur is that you need to be able to tell a story. If you can't
+tell a story around your product that shows this is life without your product and this is life with
+your product and you can't make that compelling argument that the second scenario is better in
+some meaningful way, then you probably shouldn't be building the product. 
+
+[Jeff Rothschild](https://softwareengineeringdaily.com/wp-content/uploads/2019/10/SED936-FB-Jeff-Rothschild-Entrepreneurship.pdf)
