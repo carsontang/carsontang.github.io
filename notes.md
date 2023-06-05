@@ -92,6 +92,7 @@ Deduction reasons from the mind to the world. Induction reasons from the world t
 * Hire people who are willing to challenge your ideas.
 * Engineers don't always have good user interfaces, but they might have a solid
 	operating system.
+* [Why do we need Django apps?](https://forum.djangoproject.com/t/why-do-we-need-apps/827)
 
 ## Technical Knowledge
 * A pixel is a **pic**ture **el**ement. It is 1 byte, which allows for 256
