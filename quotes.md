@@ -511,3 +511,11 @@ your product and you can't make that compelling argument that the second scenari
 some meaningful way, then you probably shouldn't be building the product. 
 
 *[Jeff Rothschild](https://softwareengineeringdaily.com/wp-content/uploads/2019/10/SED936-FB-Jeff-Rothschild-Entrepreneurship.pdf)*
+
+---
+
+What you have to do when you build a new product is you have to kind of find the intersection between what's a new thing we can build that's never been built before and what's the thing that people are going to want to use like almost every day, something that they're going to love.
+
+Additionally, if you're trying to build a startup, you have to say okay, what's the thing I can get distribution for too. So you're sort of trying to intersect those sets.
+
+*[Nat Friedman](https://www.youtube.com/watch?v=lnufceCxwG0&t=19m42s&ab_channel=ScaleAI)*
