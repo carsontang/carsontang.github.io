@@ -533,3 +533,9 @@ Before you build a startup, write down
 The last two are most important. Market timing and founder fit.
 
 *[Andrew Gazdecki](https://www.linkedin.com/in/agazdecki/)*
+
+---
+
+Instead of hating the competition, you should have respect for them: "What are they doing right? How can that inspire me to do better?"
+
+*Unknown*
