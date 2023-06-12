@@ -539,3 +539,9 @@ The last two are most important. Market timing and founder fit.
 Instead of hating the competition, you should have respect for them: "What are they doing right? How can that inspire me to do better?"
 
 *Unknown*
+
+---
+
+I have been consistently surprised by how impactful notes can be...I found the most impact from writing position notes that challenge how people think or touch on an unnamed feeling.
+
+*Unknown*
