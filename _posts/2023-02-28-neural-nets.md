@@ -22,6 +22,12 @@ tags: [machine-learning]
 * MLPs can capture **any** classification boundary
 * deeper networks may require far fewer neurons than shallower networks to express the same function
 
+## Why does PyTorch store nn.Linear weights as transpose?
+It's due to historical reasons. From Soumith Chintala:
+> it's historical weight layout, changing it is backward-incompatible. Unless there is some BIG benefit in terms of speed or convenience, we wont break userland.
+
+See https://github.com/pytorch/pytorch/issues/2159.
+
 ## Glossary
 * model – summarizes data, don't need to have every piece of data, you can just have a model which allows you to predict more data even if you didn't immediately have it
 
