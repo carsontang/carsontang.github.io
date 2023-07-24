@@ -545,3 +545,9 @@ Instead of hating the competition, you should have respect for them: "What are t
 I have been consistently surprised by how impactful notes can be...I found the most impact from writing position notes that challenge how people think or touch on an unnamed feeling.
 
 *Unknown*
+
+---
+
+Now I was going to bring back all such things into my life and become again that most limited of all specialists, the "well-rounded man." This isn’t just an epigram—life is much more successfully looked at from a single window, after all.
+
+*Excerpt From The Great Gatsby, Francis Scott Key Fitzgerald*
