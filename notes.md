@@ -96,6 +96,7 @@ Deduction reasons from the mind to the world. Induction reasons from the world t
 * "Apps are basically just Python modules with extra bits, in the end, and the extra bits are basically all autodiscovery." "a Django app is “just” a Python module which can have its own models"
 
 ## Technical Knowledge
+* A model is **calibrated** if the distribution it predicts matches the empirical distribution.
 * A pixel is a **pic**ture **el**ement. It is 1 byte, which allows for 256
 	possible values. The values of a pixel represent the **intensity**. In a
 	grayscale image, the insensity values represent how **black** a pixel is. For
