@@ -13,7 +13,8 @@ tags: [python]
 ### Anaconda commands
 * `conda info` - display Anaconda information related to your computer's setup
 * `conda env update -f <filename>` - download any new Python modules specified in the file
-
+* `conda list --export > package-list.txt` – save packages for future use
+* `conda create -n myenv --file package-list.txt` – reinstall packages from an export file
 
 ### Setting up Mayavi with Python 3.5
 * Mayavi works on Python 3 now! Simply follow the instructions below, and the proper dependencies will be installed.
