@@ -4,6 +4,7 @@ title: Transformers
 excerpt: Intuitively understand what makes an ML transformer so powerful
 category: machine-learning
 tags: [machine-learning]
+mathjax: true
 ---
 
 ## Scaled Dot Product Attention
